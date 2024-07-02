@@ -6,7 +6,7 @@ author: [with Florencia Lopez Boo, Jere Behrman, Emily Hannum and Fan Wang]
 description: "In this paper we discuss the relationship between climate change and Early childhood development in Latin America, focusing specifically in air pollution and extreme temperature." 
 summary: "In this paper we will discuss the relationship between climate change and Early childhood development"
 cover:
-    image: "excess_burden_LAC_map_children.png"
+    image: "pm25_LAC.png"
     alt: ""
     relative: false
 # editPost:
