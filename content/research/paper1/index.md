@@ -20,7 +20,7 @@ cover:
 
 ##### Download
 
-+ [Paper](https://fanwangecon.github.io/assets/GlobalPollutionBurden_SantosEtAl.pdf)
++ [Paper](paper_global_pollution.pdf)
 + [Poster](Poster_PAA.pdf) - Best Poster award PAA 2024
 
 <!-- + [Online appendix](appendix1.pdf) -->
