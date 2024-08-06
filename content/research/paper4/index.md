@@ -7,7 +7,7 @@ author: ""
 description: "" 
 summary: "" 
 cover:
-    image: ""
+    image: "tree_cover.gif"
     alt: ""
     relative: false
 # editPost:
