@@ -25,4 +25,4 @@ cover:
 ![](tree_cover.gif)
 
 ##### Tree cover loss Eastern region
-![](def_eastern.gif)
+![](defonly_eastern.gif)
