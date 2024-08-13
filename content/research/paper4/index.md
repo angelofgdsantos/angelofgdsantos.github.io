@@ -1,6 +1,6 @@
 ---
-title: "Paying us to not deforest:
-A community pay-for-performance program in Zambia" 
+title: "Paying us to not deforest : How community pay-for-performance can lead
+to conservation (JMP)" 
 # date: 2012-06-01
 # tags: ["keyword 1","keyword 2","keyword 3"]
 author: ""
