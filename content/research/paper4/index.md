@@ -18,7 +18,7 @@ cover:
 
 ##### Description
 
- Using a REDD + project financed by USAID in Eastern Zambia, I investigate how community compensations due conservation impact enviromental outcomes, specifically deforestation, fire occurence, and emissions. Leveraging the household and village surveys, I aim to investigate how forest dependence and social normals can impact the community performance on conservation. 
+ Using a REDD + project financed by USAID in Eastern Zambia, I investigate how community compensations due conservation impact environmental outcomes, specifically deforestation, fire occurrence, and emissions. Leveraging the household and village surveys, I aim to investigate how forest dependence and social norms can impact the community performance on conservation.
 ---
 
 ##### Zambia regions tree cover share in 2000
