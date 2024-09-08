@@ -22,6 +22,7 @@ cover:
 
 + [Paper](paper_global_pollution.pdf)
 + [Poster](Poster_PAA.pdf) - Best Poster award PAA 2024
++ [Award link](https://www.populationassociation.org/paa2024/poster-winners)
 
 <!-- + [Online appendix](appendix1.pdf) -->
 <!-- + [Code and data](https://github.com/pmichaillat/job-rationing) -->
