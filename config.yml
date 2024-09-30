@@ -60,10 +60,19 @@ params:
     profileMode:
           enabled: true
           title: Angelo Santos
-          subtitle: "Hello! I am a PhD candidate at the University of Houston. I am specializing in applied microeconomics, 
+          subtitle: 
+          <div class="justify-text">
+          
+          "Hello! I am a PhD candidate at the University of Houston. I am specializing in applied microeconomics, 
           focused on development and environmental economics. My research addresses critical issues such as deforestation 
           and air pollution, aiming to develop effective policies to mitigate these challenges. I am also a nature enthusiast 
-          and soccer lover."
+          and soccer lover.
+          
+          You can find my CV [here](angelo_santos_cv.pdf)
+          "
+
+          </div>
+
 
           imageUrl: "profile_square.jpg"
           imageWidth: 160
@@ -93,8 +102,8 @@ params:
 
 
     socialIcons:
-        - name: CV
-          url: angelo_santos_cv.pdf
+        # - name: CV
+        #   url: angelo_santos_cv.pdf
         - name: Email
           url: mailto:afdossan@cougarnet.uh.edu
         - name: Linkedin
