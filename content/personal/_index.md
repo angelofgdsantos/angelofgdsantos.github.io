@@ -9,7 +9,7 @@ description: "About me"
 * I am soccer lover ⚽️ and supporter of the Clube Náutico Capibaribe 🇲🇨 🐭 
 * I love nature! Beaches 🏝️ and mountains 🏔️ are the perfect convex combination. Hiking is a great therapy 😎
 * I love python 🐍
-* I want to run a social bussiness one day
+<!-- * I want to run a social bussiness one day -->
 
 ### Some causes I support:
 
