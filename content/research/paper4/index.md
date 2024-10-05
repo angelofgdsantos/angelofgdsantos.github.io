@@ -3,9 +3,11 @@ title: "A Strategic Environment: Conservation Policies Effectiveness and Strateg
 
 # date: 2012-06-01
 # tags: ["keyword 1","keyword 2","keyword 3"]
-author: ""
-description: "" 
-summary: "" 
+author: "Angelo Santos"
+description: "Conservation area policies are crucial for preserving natural resources. Using a REDD+ project funded by USAID in Eastern Zambia, I investigate the impact of community compensation
+on environmental outcomes." 
+summary: "Conservation area policies are crucial for preserving natural resources. Using a REDD+ project funded by USAID in Eastern Zambia, I investigate the impact of community compensation
+on environmental outcomes."  
 cover:
     image: "p_15_Eastern_tree_cover_2dig.png"
     alt: ""
