@@ -18,7 +18,7 @@ cover:
 
 ##### Download
 
-+ [Paper](/Users/angelosantos/Documents/GitHub/angelofgdsantos.github.io/content/research/paper1/paper_zambia.pdf)
++ [Paper](paper_zambia.pdf)
 
 ##### Description
 
