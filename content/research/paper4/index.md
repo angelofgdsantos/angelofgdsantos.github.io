@@ -20,7 +20,7 @@ cover:
 
 ##### Download
 
-+ [Paper](paper_zambia.pdf)
++ [Paper](/content/research/paper1/paper_zambia.pdf)
 
 ##### Description
 
