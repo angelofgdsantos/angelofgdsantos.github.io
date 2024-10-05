@@ -18,7 +18,7 @@ cover:
 
 ##### Download
 
-+ [Paper](research/paper1/paper_zambia.pdf)
++ [Paper](paper_zambia.pdf)
 
 ##### Description
 
