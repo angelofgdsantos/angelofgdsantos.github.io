@@ -1,6 +1,6 @@
 ---
-title: "Paying us to not deforest : How community pay-for-performance can lead
-to conservation (JMP)" 
+title: "A Strategic Environment: Conservation Policies Effectiveness and Strategic Behavior" 
+
 # date: 2012-06-01
 # tags: ["keyword 1","keyword 2","keyword 3"]
 author: ""
