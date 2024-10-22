@@ -1,7 +1,8 @@
 ---
 title: "Strategic Environment: Conservation Policies Effectiveness and Strategic Behavior" 
+weight: 1
 
-date: 2024
+# date: 2024
 # tags: ["keyword 1","keyword 2","keyword 3"]
 author: "Angelo Santos"
 description: "Conservation area policies are crucial for preserving natural resources. Using a REDD+ project funded by USAID in Eastern Zambia, I investigate the impact of community compensation

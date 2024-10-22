@@ -1,5 +1,6 @@
 ---
 title: "The gender gap in the market for superstars: evidence from the NYT Best sellers list" 
+weight: 4
 # date: 2015-12-01
 # tags: ["keyword 1","keyword 2","keyword 4"]
 author: [with Chinhui Juhn, Yona Rubinstein and Jordan Holbrook]

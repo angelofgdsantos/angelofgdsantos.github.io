@@ -1,6 +1,7 @@
 ---
 title: "Population burdens of air pollution around the world:
 Distributions, inequalities, and links to per capita GDP" 
+weight: 2
 # date: 2012-06-01
 # tags: ["keyword 1","keyword 2","keyword 3"]
 author: " with Oscar Morales, Jere Behrman, Emily Hannum and Fan Wang"
