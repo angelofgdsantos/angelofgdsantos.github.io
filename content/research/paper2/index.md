@@ -15,15 +15,25 @@ cover:
 #     Text: "Other Journal Name"
 
 ---
+<details>
+    <summary> Abstract </summary>
 
-##### Description
+    This paper studies the sucess of women in the author's market. 
 
-This paper studies the sucess of women in the author's market. 
+<details>
+
 ---
+
+<details>
+
+    <summary> Abstract </summary>
 
 ##### Female authors share by type of book
 
 ![](p_female_shares.png)
 
+<details>
+
+---
 
 
