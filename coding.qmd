@@ -7,7 +7,9 @@ Let's code! Here I share coding content related to my research and things I lear
 <!-- One of my favorite things to do! - you should know if you read my [Personal](me.qmd) stuff. -->
 
 ### Miscellaneous
-* [Learning Quarto](https://angelofgdsantos.github.io/learn_quarto/): My informal website documenting my learning process on creating Quarto websites.
+* [Learning Quarto](https://angelofgdsantos.github.io/learn_quarto/): Informal website documenting my learning process on creating Quarto websites.
+
+* [Human capital codes](https://angelofgdsantos.github.io/human-capital/md/intro.html): Some codes of the PhD Human Capital course I took.
 
 ### Useful links
 * [Quant Econ](https://quantecon.org): Coding and economics applications, what else do you need? 
