@@ -1,0 +1,15 @@
+---
+title: ""
+---
+
+![](images/profile_photo.jpg)
+
+Hello! I am a PhD candidate at the University of Houston. 
+
+I am an applied microeconomics working on development and environmental economics. My research addresses critical issues such as deforestation and air pollution, aiming to develop effective policies to mitigate these challenges. 
+
+I am also a nature enthusiast and soccer lover.
+
+You can find my CV [here](documents/angelo_santos_cv.pdf)
+
+

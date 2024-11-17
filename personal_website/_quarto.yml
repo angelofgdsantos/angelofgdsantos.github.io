@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: docs
+
+
+website:
+  title: "Angelo Santos"
+  favicon: /images/favicon.ico
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: coding.qmd
+        text: Coding
+      - href: teaching.qmd
+        text: Teaching
+      - href: me.qmd
+        text: Personal
+    
+    right: 
+      - icon: envelope-fill
+        href: mailto:afdossan@cougarnet.uh.edu
+      - icon: github
+        href: https://github.com/angelofgdsantos
+      - icon: linkedin
+        href: https://www.linkedin.com/in/angelo-santos-2854bb147/
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+
+
+
+
+
+

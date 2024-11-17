@@ -1,0 +1,61 @@
+---
+title: ""
+toc: false
+# toc-location: left
+# lightbox: true
+grid:
+      margin-width: 350px
+---
+
+### Job Market Paper
+---
+
+[Strategic Environment: 
+\ 
+\
+Conservation Policies Effectiveness and Strategic Behavior]{style="font-weight: 900; font-size: 12pt;"}
+
+
+[[Draft](papers/zambia/paper_zambia.pdf)]{style="font-weight: 900; font-size: 10pt;"}
+
+::: {.column-margin}
+![](/papers/zambia/p_15_Eastern_tree_cover_2dig.png){fig-align="center"}
+:::
+
+<div style="text-align: justify;">
+
+[Conservation policies are critical for preserving natural resources, yet their effectiveness can be influenced by strategic site selection and unintended consequences. This study evaluates the environmental impacts of a REDD+ project funded by USAID in Eastern Zambia, which established protected areas within contracted chiefdom boundaries in partnership with local authorities. Leveraging geospatial and household data, I analyze whether communities strategically designated areas with low deforestation pressure for protection and assess the program’s conservation outcomes. Furthermore, I examine spillover effects on non-protected areas within contracted chiefdoms. The results indicate that the program successfully reduced deforestation within protected areas. However, tree cover loss in creased in non-protected areas, leading to negative spillovers that more than offset the conservation gains. Consequently, treated chiefdoms experienced higher overall deforestation rates post-policy. These findings highlight the importance of addressing strategic behavior and incentive structures in the design of conservation policies to ensure their long-term effectiveness]{style="font-weight: 900; font-size: 8pt;"}
+
+</div>
+
+
+### Working Papers
+---
+
+[Population burdens of air pollution around the world: Distributions, inequalities, and links to per capita GDP]{style="font-weight: 900; font-size: 12pt;"}
+
+
+[[Draft](papers/gpp/paper_global_pollution.pdf)]{style="font-weight: 900; font-size: 10pt;"} 
+
+[[Poster](papers/gpp/paper_global_pollution.pdf)]{style="font-weight: 900; font-size: 10pt;"} - [Best Poster award PAA 2024](https://www.populationassociation.org/paa2024/poster-winners)
+
+::: {.column-margin}
+![](/papers/gpp/paper1.png){fig-align="center"}
+![](/papers/gpp/asia_dist.png){fig-align="center"}
+:::
+
+<div style="text-align: justify;">
+
+[We analyze the global population-weighted distribution of air pollution by aerosols and its relationship to GDP per capita. We first decompose the global distribution and consider both variations across and within regions and countries. Second, we map national and subnational distributions of air pollution by aerosols to national and subnational distributions of GDP per capita. We find considerable global exposure inequalities. Comparing continents at the extremes, the average individual in Asia is 3.32 times more exposed to air pollution by aerosols than the average individual in Oceania. In Africa and Asia, populations at the 80\uth percentile of the air pollution by aerosol distribution are 141\% and 109\% more exposed than population at the 20\uth percentile, and those at the 90\uth percentile are 227\% and 185\% more exposed those at the 10\uth percentile. Globally, we find that a doubling of GDP per capita is associated with a 11.8 percentage points reduction in the percentage deviation between a subnational unit's population-weighted air pollution by aerosol level and the global population-weighted mean. Within each continent, exploiting variabilities in subnational data after controlling for aggregate regional variabilities, we find positive associations between air pollution by aerosols and GDP per capita in Africa and Europe, but negative associations in the Americas, Asia, and Oceania. ]{style="font-weight: 900; font-size: 8pt; style="text-align: justify;}
+
+</div>
+
+<br>
+
+[Extreme Heat and Air Pollution Risks for Early Childhood Development in Latin America and the Caribbean]{style="font-weight: 900; font-size: 12pt;"}
+
+[Draft Soon]{style="font-weight: 900; font-size: 10pt;"} 
+
+<!-- [[Draft](papers/gpp/paper_global_pollution.pdf)]{style="font-weight: 900; font-size: 10pt;"}  -->
+
+

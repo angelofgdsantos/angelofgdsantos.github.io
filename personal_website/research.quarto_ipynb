@@ -1,0 +1,69 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"\"\n",
+        "toc: false\n",
+        "# toc-location: left\n",
+        "# lightbox: true\n",
+        "---\n",
+        "\n",
+        "```{css}\n",
+        "#| echo: false\n",
+        "p {\n",
+        "  text-align: justify\n",
+        "}\n",
+        "```\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "### Job Market Paper\n",
+        "\n",
+        "---\n",
+        "\n",
+        "[[Strategic Environment: Conservation Policies Effectiveness and Strategic Behavior](papers/zambia/paper_zambia.pdf)]{style=\"font-weight: 900; font-size: 12pt;\"}\n",
+        "\n",
+        "<!-- ::: {.grid}\n",
+        "\n",
+        "::: {.g-col-8} -->\n",
+        "\n",
+        "::: {.justify}\n",
+        "Conservation policies are critical for preserving natural resources, yet their effectiveness can be influenced by strategic site selection and unintended consequences. This study evaluates the environmental impacts of a REDD+ project funded by USAID in Eastern Zambia, which established protected areas within contracted chiefdom boundaries in partnership with local authorities. Leveraging geospatial and household data, I analyze whether communities strategically designated areas with low deforestation pressure for protection and assess the program’s conservation outcomes. Furthermore, I examine spillover effects on non-protected areas within contracted chiefdoms. The results indicate that the program successfully reduced deforestation within protected areas. However, tree cover loss in creased in non-protected areas, leading to negative spillovers that more than offset the conservation gains. Consequently, treated chiefdoms experienced higher overall deforestation rates post-policy. These findings highlight the importance of addressing strategic behavior and incentive structures in the design of conservation policies to ensure their long-term effectiveness\n",
+        "\n",
+        ":::\n",
+        "<!-- :::\n",
+        "\n",
+        "::: {.g-col-4} -->\n",
+        "\n",
+        "![](/papers/zambia/p_15_Eastern_tree_cover_2dig.png){fig-align=\"center\"}\n",
+        "\n",
+        "<!-- ::: -->\n",
+        "\n",
+        "### Working Papers\n",
+        "\n",
+        "---\n",
+        "\n",
+        "\n",
+        "[[Population burdens of air pollution around the world: Distributions, inequalities, and links to per capita GDP](papers/gpp/paper_global_pollution.pdf)]{style=\"font-weight: 900; font-size: 12pt;\"}\n",
+        "\n",
+        "[Extreme Heat and Air Pollution Risks for Early Childhood Development in Latin America and the Caribbean]{style=\"font-weight: 900; font-size: 12pt;\"}\n",
+        "<!-- ### Work in progress\n",
+        "--- -->\n"
+      ],
+      "id": "0ae64ba4"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}
