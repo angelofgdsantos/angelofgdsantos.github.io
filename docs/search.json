@@ -2,28 +2,28 @@
   {
     "objectID": "coding.html",
     "href": "coding.html",
-    "title": "![](images/favicon-32x32.png) Angelo Santos",
+    "title": "![](/images/favicon.ico) Angelo Santos",
     "section": "",
     "text": "Let’s code! Here I share coding content related to my research and things I learned.\n\n\nMiscellaneous\n\nLearning Quarto: My informal website documenting my learning process on creating Quarto websites.\n\n\n\nUseful links\n\nQuant Econ: Coding and economics applications, what else do you need?"
   },
   {
     "objectID": "me.html",
     "href": "me.html",
-    "title": "![](images/favicon-32x32.png) Angelo Santos",
+    "title": "![](/images/favicon.ico) Angelo Santos",
     "section": "",
     "text": "Random facts about me:\n\nI am a proud Brazilian 🇧🇷 and Pernambucano from Recife (Northeast of Brazil)\nI am soccer lover ⚽️ and a supporter of Clube Náutico Capibaribe 🇲🇨 🐭\nI love nature! Beaches 🏝️ and mountains 🏔️ are the perfect convex combination. Hiking is a great therapy 😎\nI love python programming 🐍 \n\n\n\nSome causes I support:\n\nEnvironmental protection 🌳\nMental health 🧠\nEducation for all 📚\nSocial work to change micro-worlds 🫂"
   },
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "![](images/favicon-32x32.png) Angelo Santos",
+    "title": "![](/images/favicon.ico) Angelo Santos",
     "section": "",
     "text": "Job Market Paper\n\nStrategic Environment:  \nConservation Policies Effectiveness and Strategic Behavior\nDraft\n\n\n\n\n\n\n\n\nConservation policies are critical for preserving natural resources, yet their effectiveness can be influenced by strategic site selection and unintended consequences. This study evaluates the environmental impacts of a REDD+ project funded by USAID in Eastern Zambia, which established protected areas within contracted chiefdom boundaries in partnership with local authorities. Leveraging geospatial and household data, I analyze whether communities strategically designated areas with low deforestation pressure for protection and assess the program’s conservation outcomes. Furthermore, I examine spillover effects on non-protected areas within contracted chiefdoms. The results indicate that the program successfully reduced deforestation within protected areas. However, tree cover loss in creased in non-protected areas, leading to negative spillovers that more than offset the conservation gains. Consequently, treated chiefdoms experienced higher overall deforestation rates post-policy. These findings highlight the importance of addressing strategic behavior and incentive structures in the design of conservation policies to ensure their long-term effectiveness\n\n\n\nWorking Papers\n\nPopulation burdens of air pollution around the world: Distributions, inequalities, and links to per capita GDP\nDraft\nPoster - Best Poster award PAA 2024\n\n\n \n\n[We analyze the global population-weighted distribution of air pollution by aerosols and its relationship to GDP per capita. We first decompose the global distribution and consider both variations across and within regions and countries. Second, we map national and subnational distributions of air pollution by aerosols to national and subnational distributions of GDP per capita. We find considerable global exposure inequalities. Comparing continents at the extremes, the average individual in Asia is 3.32 times more exposed to air pollution by aerosols than the average individual in Oceania. In Africa and Asia, populations at the 80percentile of the air pollution by aerosol distribution are 141% and 109% more exposed than population at the 20percentile, and those at the 90percentile are 227% and 185% more exposed those at the 10percentile. Globally, we find that a doubling of GDP per capita is associated with a 11.8 percentage points reduction in the percentage deviation between a subnational unit’s population-weighted air pollution by aerosol level and the global population-weighted mean. Within each continent, exploiting variabilities in subnational data after controlling for aggregate regional variabilities, we find positive associations between air pollution by aerosols and GDP per capita in Africa and Europe, but negative associations in the Americas, Asia, and Oceania. ]{style=“font-weight: 900; font-size: 8pt; style=”text-align: justify;}\n\n\nExtreme Heat and Air Pollution Risks for Early Childhood Development in Latin America and the Caribbean\nDraft Soon"
   },
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
-    "title": "![](images/favicon-32x32.png) Angelo Santos",
+    "title": "![](/images/favicon.ico) Angelo Santos",
     "section": "",
     "text": "University of Houston\n\nInstructor, Principles of Microeconomics - Fall 2023 - Course evaluation\nTA, Macroeconomic theory 2 (PhD course) - Spring 2022\nTA, History of Economic Doctrine - Fall 2021\nTA, Intermediate microeconomics - Fall 2021\n\n\n\nFederal University of Pernambuco - UFPE\n\nTA, Macroeconomics I - Fall 2016\nTA, Elements of Mathematical Economics I - Fall 2015"
   },
@@ -37,7 +37,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "![](images/favicon-32x32.png) Angelo Santos",
+    "title": "![](/images/favicon.ico) Angelo Santos",
     "section": "",
     "text": "Hello! I am a PhD candidate at the University of Houston.\nI am an applied microeconomics working on development and environmental economics. My research addresses critical issues such as deforestation and air pollution, aiming to develop effective policies to mitigate these challenges.\nI am also a nature enthusiast and soccer lover.\nYou can find my CV here"
   }
