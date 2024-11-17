@@ -4,7 +4,7 @@ project:
 
 
 website:
-  title: "![](images/favicon-16x16.png) Angelo Santos"
+  title: "![](images/favicon-32x32.png) Angelo Santos"
   favicon: /images/favicon.ico
   navbar:
     left:
