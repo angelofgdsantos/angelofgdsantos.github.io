@@ -2,14 +2,36 @@
 title: ""
 ---
 
-![](images/profile_photo.jpg)
+:::: {.columns}
 
-Hello! I am a PhD candidate at the University of Houston. 
+::: {.column width="49%"}
 
-I am an applied microeconomics working on development and environmental economics. My research addresses critical issues such as deforestation and air pollution, aiming to develop effective policies to mitigate these challenges. 
+![](images/profile_square_big.jpg){width=500}
 
-I am also a nature enthusiast and soccer lover.
+:::
+
+::: {.column width="5%"}
+<!-- Blank -->
+:::
+
+::: {.column width="46%"}
+
+<div style="text-align: justify;">
+
+Hello!
+
+I am a PhD candidate at the University of Houston. 
+
+I am an applied microeconomics working on development and environmental economics. 
+
+My research addresses critical issues such as deforestation and air pollution, aiming to develop effective policies to mitigate these challenges. 
+
+I am a nature enthusiast and soccer lover.
 
 You can find my CV [**here**](documents/angelo_santos_cv.pdf)
 
+</div>
 
+:::
+
+::::
