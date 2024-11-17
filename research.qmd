@@ -4,6 +4,7 @@ toc: false
 # toc-location: left
 # lightbox: true
 grid:
+      sidebar-width: 0px
       margin-width: 350px
 ---
 
