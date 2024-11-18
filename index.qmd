@@ -21,7 +21,7 @@ grid:
 
 <div style="text-align: justify;">
 
-[**Welcome!**]{style="font-weight: 900; font-size: 18pt;"}
+### Welcome!
 
 I am a PhD candidate at the University of Houston. 
 
