@@ -1,24 +1,27 @@
 ---
 title: ""
+grid:
+      sidebar-width: 700px
+      margin-width: 700px
 ---
 
-:::: {.columns}
+<!-- :::: {.columns}
 
-::: {.column width="49%"}
+::: {.column width="49%"} -->
 
-![](images/profile_square_big.jpg){width=500}
+![](images/profile_square_big.jpg){width=250 fig-align="left" style="border-radius: 50%;"}
 
-:::
+<!-- :::
 
 ::: {.column width="5%"}
 <!-- Blank -->
-:::
+<!-- :::
 
-::: {.column width="46%"}
+::: {.column width="46%"} --> 
 
 <div style="text-align: justify;">
 
-Hello!
+[**Welcome!**]{style="font-weight: 900; font-size: 18pt;"}
 
 I am a PhD candidate at the University of Houston. 
 
@@ -32,6 +35,6 @@ You can find my CV [**here**](documents/angelo_santos_cv.pdf)
 
 </div>
 
-:::
+<!-- :::
 
-::::
+:::: -->
