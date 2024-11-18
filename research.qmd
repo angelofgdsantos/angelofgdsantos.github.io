@@ -38,7 +38,7 @@ Conservation Policies Effectiveness and Strategic Behavior]{style="font-weight: 
 
 [[Draft](papers/gpp/paper_global_pollution.pdf)]{style="font-weight: 900; font-size: 10pt;"} 
 
-[[Poster](papers/gpp/paper_global_pollution.pdf)]{style="font-weight: 900; font-size: 10pt;"} - [Best Poster award PAA 2024](https://www.populationassociation.org/paa2024/poster-winners)
+[[Poster](papers/gpp/paper_global_pollution.pdf) -  [Best Poster award PAA 2024](https://www.populationassociation.org/paa2024/poster-winners)]{style="font-weight: 900; font-size: 10pt;"}
 
 ::: {.column-margin}
 ![](/papers/gpp/paper1.png){fig-align="center"}
