@@ -33,7 +33,11 @@ Conservation Policies Effectiveness and Strategic Behavior]{style="font-weight: 
 ### Working Papers
 ---
 
-[Population burdens of air pollution around the world: Distributions, inequalities, and links to per capita GDP]{style="font-weight: 900; font-size: 12pt;"}
+[Population burdens of air pollution around the world: 
+<br>
+Distributions, inequalities, and links to per capita GDP]{style="font-weight: 900; font-size: 12pt;"}
+<br>
+[with Jere Behrman, Emily Hannum, Oscar Morales, and Fan Wang]{style="font-weight: 700; font-size: 10pt;"}
 
 
 [[Draft](papers/gpp/paper_global_pollution.pdf)]{style="font-weight: 900; font-size: 10pt;"} 
@@ -54,6 +58,8 @@ Conservation Policies Effectiveness and Strategic Behavior]{style="font-weight: 
 <br>
 
 [Extreme Heat and Air Pollution Risks for Early Childhood Development in Latin America and the Caribbean]{style="font-weight: 900; font-size: 12pt;"}
+<br>
+[with  Alexandre Bagolle, Jere R. Behrman, Florencia Lopez Boo, Emily Hannum, Joaquín Paseyro Mayol, Oscar Morales, Fan Wang]{style="font-weight: 700; font-size: 10pt;"}
 
 [Draft Soon]{style="font-weight: 900; font-size: 10pt;"} 
 
