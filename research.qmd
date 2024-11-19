@@ -17,7 +17,7 @@ grid:
 Conservation Policies Effectiveness and Strategic Behavior]{style="font-weight: 900; font-size: 12pt;"}
 
 ::: {.column-margin}
-![](/papers/zambia/p_15_Eastern_tree_cover_2dig.png){fig-align="center"}
+![](/research/zambia/p_15_Eastern_tree_cover_2dig.png){fig-align="center"}
 :::
 
 [[Draft](research/paper1/paper_zambia.pdf)]{style="font-weight: 900; font-size: 10pt;"}
@@ -52,7 +52,7 @@ Distributions, inequalities, and links to per capita GDP]{style="font-weight: 90
 [with Jere Behrman, Emily Hannum, Oscar Morales, and Fan Wang]{style="font-weight: 700; font-size: 10pt;"}
 
 ::: {.column-margin}
-![](/papers/gpp/paper1.png){fig-align="center"}
+![](/research/gpp/paper1.png){fig-align="center"}
 <!-- ![](/papers/gpp/asia_dist.png){fig-align="center"} -->
 :::
 
@@ -79,7 +79,7 @@ Distributions, inequalities, and links to per capita GDP]{style="font-weight: 90
 [with  Alexandre Bagolle, Jere R. Behrman, Florencia Lopez Boo, Emily Hannum, Joaquín Paseyro Mayol, Oscar Morales, Fan Wang]{style="font-weight: 700; font-size: 10pt;"}
 
 ::: {.column-margin}
-![](/papers/lac/pm25_LAC.png){fig-align="center"}
+![](/research/lac/pm25_LAC.png){fig-align="center"}
 <!-- ![](/papers/lac/Admin%201_pm25_group_mean_histogram_by_year_kde.png){fig-align="center"} -->
 :::
 
