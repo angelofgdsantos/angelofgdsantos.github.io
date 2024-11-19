@@ -20,7 +20,7 @@ Conservation Policies Effectiveness and Strategic Behavior]{style="font-weight: 
 ![](/papers/zambia/p_15_Eastern_tree_cover_2dig.png){fig-align="center"}
 :::
 
-[[Draft](papers/zambia/paper_zambia.pdf)]{style="font-weight: 900; font-size: 10pt;"}
+[[Draft](research/paper1/paper_zambia.pdf)]{style="font-weight: 900; font-size: 10pt;"}
 
 
 <!-- :::{.callout-tip icon=false  appearance="minimal" collapse="true" style="border: none; color: #196c19;"} -->
@@ -56,7 +56,7 @@ Distributions, inequalities, and links to per capita GDP]{style="font-weight: 90
 <!-- ![](/papers/gpp/asia_dist.png){fig-align="center"} -->
 :::
 
-[[Draft](papers/gpp/paper_global_pollution.pdf)]{style="font-weight: 900; font-size: 10pt;"} &emsp; [[Poster](papers/gpp/Poster_PAA.pdf)]{style="font-weight: 900; font-size: 10pt;"}
+[[Draft](research/paper1/paper_global_pollution.pdf)]{style="font-weight: 900; font-size: 10pt;"} &emsp; [[Poster](papers/gpp/Poster_PAA.pdf)]{style="font-weight: 900; font-size: 10pt;"}
 
 <!-- [[Poster](papers/gpp/Poster_PAA.pdf) - [Best Poster award PAA 2024](https://www.populationassociation.org/paa2024/poster-winners)]{style="font-weight: 900; font-size: 10pt;"} -->
 
