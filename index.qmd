@@ -1,31 +1,29 @@
 ---
 title: ""
 grid:
-      sidebar-width: 700px
-      margin-width: 700px
+      sidebar-width: 200px
+      margin-width: 200px
 ---
 
-<!-- :::: {.columns}
+:::: {layout="[ 40, 60 ]"}
 
-::: {.column width="49%"} -->
+::: {#first-column}
 
-![](images/profile_square_big.jpg){width=250 fig-align="left" style="border-radius: 50%;"}
+![](images/profile_square_big.jpg){width=300 fig-align="left" style="border-radius: %;"}
 
-<!-- :::
+:::
 
-::: {.column width="5%"}
-<!-- Blank -->
-<!-- :::
+::: {#second-column}
 
-::: {.column width="46%"} --> 
+<div style="text-align: justify; font-weight: 400; font-size: 11.5pt;">
+<!-- 
+### Welcome! -->
 
-<div style="text-align: justify;">
-
-### Welcome!
+[**Welcome!**]{style="font-weight: 800; font-size: 18pt;"}
 
 I am a PhD candidate at the University of Houston. 
 
-I am an applied microeconomics working on development and environmental economics. 
+I am an applied microeconomist working on development and environmental economics. 
 
 My research addresses critical issues such as deforestation and air pollution, aiming to develop effective policies to mitigate these challenges. 
 
@@ -35,6 +33,6 @@ You can find my CV [**here**](documents/angelo_santos_cv.pdf)
 
 </div>
 
-<!-- :::
+:::
 
-:::: -->
+::::  
