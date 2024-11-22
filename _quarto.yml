@@ -13,15 +13,16 @@ website:
         text: Home
       - href: research.qmd
         text: Research
-      - href: coding.qmd
-        text: Coding
       - href: work.qmd
         text: Working Experience
       - href: teaching.qmd
         text: Teaching
+      - href: coding.qmd
+        text: Coding
       - href: me.qmd
         text: Personal
-    
+
+
     right: 
       - icon: envelope-fill
         href: mailto:angelofgdsantos@gmail.com
