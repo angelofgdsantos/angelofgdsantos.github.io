@@ -21,7 +21,7 @@ grid:
 
 [**Welcome!**]{style="font-weight: 800; font-size: 18pt;"}
 
-I am a PhD candidate at the University of Houston. 
+I am a PhD candidate at the University of Houston. I will be joining the University of Pennsylvania as a Postdoctoral Researcher at the Population Studies Center in July.
 
 I am an applied microeconomist working on development and environmental economics. 
 
