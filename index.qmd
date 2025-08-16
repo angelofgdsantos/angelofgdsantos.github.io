@@ -21,9 +21,9 @@ grid:
 
 [**Welcome!**]{style="font-weight: 800; font-size: 18pt;"}
 
-I am a PhD candidate at the University of Houston. I will be joining the University of Pennsylvania as a Postdoctoral Researcher at the Population Studies Center in July.
+I am a [Postdoctoral Fellow](https://www.pop.upenn.edu/bio/angelo-dos-santos) at the University of Pennsylvania and Scientific Production Coordinator for the [DZC project](https://web.sas.upenn.edu/dzc-en/).
 
-I am an applied microeconomist working on development and environmental economics. 
+I am an applied microeconomist working on development and environmental economics. I received my PhD from the University of Houston. 
 
 My research addresses critical issues such as deforestation and air pollution, aiming to develop effective policies to mitigate these challenges. 
 
