@@ -112,7 +112,6 @@ Kuznets Curve]{style="font-weight: 900; font-size: 12pt;"}
 
 ::: {.column-margin}
 ![](/research/ekc/ekc_paper.png){fig-align="center"}
-<!-- ![](/papers/lac/Admin%201_pm25_group_mean_histogram_by_year_kde.png){fig-align="center"} -->
 :::
 
 [[Draft](research/paper1/ekc_draft.pdf)]{style="font-weight: 900; font-size: 10pt;"} 
