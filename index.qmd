@@ -9,7 +9,7 @@ grid:
 
 ::: {#first-column}
 
-![](images/profile_square_big.jpg){width=300 fig-align="left" style="border-radius: %;"}
+![](images/Casamento%20Angelo%20e%20Veronica%20%20-117.jpg){width=300 fig-align="left" style="border-radius: %;"}
 
 :::
 
