@@ -1,27 +1,30 @@
 @import url('https://fonts.googleapis.com/css2?family=Anek+Devanagari:wght@100..800&family=Edu+AU+VIC+WA+NT+Pre:wght@400..700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 /* css styles */
 
+/* color options for green */
+/*334422*/
+/*196c19*/
 /* Navbar */
 .navbar{
   background: #fff;
 }
 .navbar a {
-  color: #196c19;
+  color: #496130;
 }
 .navbar a:hover {
   color:  #04e104;
 }
 .navbar-nav .nav-link.active {
-  color: #196c19;
+  color: #496130;
   text-decoration: underline;
-  text-decoration-thickness: 0.7px; /* Adjust the thickness as needed */
+  text-decoration-thickness: 1px; /* Adjust the thickness as needed */
 
 }
 .navbar .quarto-navbar-tools .quarto-navigation-tool {
   color: rgb(208, 234, 209);
 }
 .navbar #quarto-search.type-overlay .aa-Autocomplete svg.aa-SubmitIcon {
-  color: #196c19;
+  color: #496130;
 }
 
 /* Sidebar */
@@ -32,7 +35,7 @@
   color: #04e104 !important;
 }
 .sidebar nav[role=doc-toc] ul>li>a.active {
-  color: #196c19 !important;
+  color: #496130 !important;
 }
 
 /* Tabs */
@@ -54,12 +57,14 @@ body {
   font-size: 18px;
   font-family: 'Lato';
   font-weight: 400;
-  color: #696969;
+  color: #555555;
 }
+
 /* Underline links */
 a {
-  color: #196c19;
-  text-decoration: underline dotted rgb(208, 234, 209);
+  color: #496130;
+  text-decoration: underline rgb(208, 234, 209);
+  font-weight: 600;
 }
 h1 {
   font-family: 'Lato';

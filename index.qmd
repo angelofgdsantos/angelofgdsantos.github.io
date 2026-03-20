@@ -9,17 +9,19 @@ grid:
 
 ::: {#first-column}
 
-![](images/Casamento%20Angelo%20e%20Veronica%20%20-117.jpg){width=300 fig-align="left" style="border-radius: %;"}
+![](images/Casamento%20Angelo%20e%20Veronica%20%20-117.jpg){width=800 fig-align="left" style="border-radius: %;"}
 
 :::
 
 ::: {#second-column}
 
-<div style="text-align: justify; font-weight: 400; font-size: 11.5pt;">
 <!-- 
 ### Welcome! -->
 
-[**Welcome!**]{style="font-weight: 800; font-size: 18pt;"}
+[**Welcome!**]{style="font-weight: 600; font-size: 18pt; color: #496130;"}
+
+<div style="text-align: justify; font-weight: 400; font-size: 13pt;">
+
 
 I am a [Postdoctoral Fellow](https://www.pop.upenn.edu/bio/angelo-dos-santos) at the University of Pennsylvania and Scientific Production Coordinator for the [DZC project](https://web.sas.upenn.edu/dzc-en/).
 
