@@ -102,9 +102,10 @@ strong {
   color: #c8d4c8 !important;
 }
 [data-theme="dark"] .navbar {
-  background: #1e261e !important;
+  background: #1a1f1a !important;
   background-image: none !important;
 }
+
 [data-theme="dark"] .navbar a {
   color: #8fc46a !important;
 }
@@ -128,25 +129,4 @@ strong {
 }
 [data-theme="dark"] .sidebar {
   background-color: #1e261e !important;
-}
-
-
-/* Paper titles and bold elements — light mode */
-.paper-title {
-  font-weight: 900;
-  font-size: 12pt;
-  color: #496130;        /* ← your light mode bold color */
-}
-
-strong {
-  color: #496130;        /* ← your light mode bold color */
-}
-
-/* Dark mode overrides */
-[data-theme="dark"] .paper-title {
-  color: #8fc46a;        /* ← your dark mode bold color */
-}
-
-[data-theme="dark"] strong {
-  color: #8fc46a;        /* ← your dark mode bold color */
 }
