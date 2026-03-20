@@ -67,6 +67,26 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+(function() {
+  const saved = localStorage.getItem('theme') || 'light';
+  document.documentElement.setAttribute('data-theme', saved);
+  document.addEventListener('DOMContentLoaded', function() {
+    const btn = document.createElement('button');
+    btn.id = 'theme-toggle';
+    btn.innerHTML = saved === 'dark' ? '&#9788;' : '&#9790;';
+    btn.style.cssText = 'background:none;border:none;color:#496130;padding:4px 8px;cursor:pointer;font-size:20px;line-height:1;';
+    btn.onclick = function() {
+      const next = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', next);
+      localStorage.setItem('theme', next);
+      btn.innerHTML = next === 'dark' ? '&#9788;' : '&#9790;';
+    };
+    const tools = document.querySelector('.quarto-navbar-tools');
+    if (tools) tools.appendChild(btn);
+  });
+})();
+</script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
@@ -181,10 +201,10 @@ window.Quarto = {
 
 
 
-<section id="working-papers" class="level3 page-columns page-full">
-<h3 class="anchored" data-anchor-id="working-papers">Working Papers</h3>
+<section id="working-papers" class="level1 page-columns page-full">
+<h1>Working Papers</h1>
 <hr>
-<p><span style="font-weight: 900; font-size: 12pt; color: #555555;">Strategic Environment: &nbsp;<br>
+<p><span style="font-weight: 700; font-size: 14pt;">Strategic Environment: &nbsp;<br>
 Conservation Policies Effectiveness and Strategic Behavior</span></p>
 
 <div class="no-row-height column-margin column-container"><div class="">
@@ -193,7 +213,7 @@ Conservation Policies Effectiveness and Strategic Behavior</span></p>
 <p><img src="./research/zambia/p_15_Eastern_tree_cover_2dig.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
-</div></div><p><span style="font-weight: 900; font-size: 10pt;"><a href="research/paper1/paper_zambia.pdf">Draft</a></span></p>
+</div></div><p><span style="font-weight: 900; font-size: 12pt;"><a href="research/paper1/paper_zambia.pdf">Draft</a></span></p>
 <!-- :::{.callout-tip icon=false  appearance="minimal" collapse="true" style="border: none; color: #196c19;"} -->
 <div class="callout callout-style-simple callout-tip no-icon callout-titled">
 <div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
@@ -208,17 +228,17 @@ Abstract
 <div id="callout-1" class="callout-1-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <div style="text-align: justify;">
-<p><span style="font-size: 10pt;">In this paper, I evaluate the environmental impacts of a conservation project funded by USAID in Eastern Zambia, which established protected areas within contracted chiefdom boundaries in partnership with local authorities. Leveraging satellite and administrative data merged at the 1km <span class="math inline">\(\times\)</span> 1km grid level from 2001 to 2023, I employ a Difference-in-Differences strategy to estimate the program’s effects on deforestation across distinct regional groups. The results indicate a significant reduction in tree cover loss within Protected Areas, though no overall impact is observed at the chiefdom level. There is no evidence of leakage to Non-Protected Areas; however, I find positive spillover effects in Non-Contracted Chiefdoms located near protection boundaries. Heterogeneity analysis reveals that conservation effects were more pronounced in areas with greater infrastructure access and human presence. Additionally, I document selection bias in the placement of Protected Areas, which were more likely to be located in remote regions with lower baseline deforestation. These findings underscore the importance of accounting for spatial targeting and incentive structures in the design of effective conservation policies.</span></p>
+<p><span style="font-size: 12pt;">In this paper, I evaluate the environmental impacts of a conservation project funded by USAID in Eastern Zambia, which established protected areas within contracted chiefdom boundaries in partnership with local authorities. Leveraging satellite and administrative data merged at the 1km <span class="math inline">\(\times\)</span> 1km grid level from 2001 to 2023, I employ a Difference-in-Differences strategy to estimate the program’s effects on deforestation across distinct regional groups. The results indicate a significant reduction in tree cover loss within Protected Areas, though no overall impact is observed at the chiefdom level. There is no evidence of leakage to Non-Protected Areas; however, I find positive spillover effects in Non-Contracted Chiefdoms located near protection boundaries. Heterogeneity analysis reveals that conservation effects were more pronounced in areas with greater infrastructure access and human presence. Additionally, I document selection bias in the placement of Protected Areas, which were more likely to be located in remote regions with lower baseline deforestation. These findings underscore the importance of accounting for spatial targeting and incentive structures in the design of effective conservation policies.</span></p>
 </div>
 </div>
 </div>
 </div>
 <p><br></p>
-<p><span style="font-weight: 900; font-size: 12pt; color: #555555;">Air Pollution Burden Around the World: <br> Distributions, Inequalities, and the Economic Benefits of Clean Air</span> <br> <span style="font-weight: 700; font-size: 10pt;">with Jere Behrman, Emily Hannum, Oscar Morales, and Fan Wang</span></p>
+<p><span style="font-weight: 700; font-size: 14pt;">Air Pollution Burden Around the World: <br> Distributions, Inequalities, and the Economic Benefits of Clean Air</span> <br> <span style="font-weight: 700; font-size: 10pt;">with Jere Behrman, Emily Hannum, Oscar Morales, and Fan Wang</span></p>
 
 <div class="no-row-height column-margin column-container"><div class="">
 <p><img src="./research/gpp/paper1.png" class="img-fluid quarto-figure quarto-figure-center"> <!-- ![](/papers/gpp/asia_dist.png){fig-align="center"} --></p>
-</div></div><p><span style="font-weight: 900; font-size: 10pt;"><a href="research/paper1/paper_global_pollution.pdf">Draft</a></span>   <span style="font-weight: 900; font-size: 10pt;"><a href="papers/gpp/Poster_PAA.pdf">Poster</a></span></p>
+</div></div><p><span style="font-weight: 900; font-size: 12pt;"><a href="research/paper1/paper_global_pollution.pdf">Draft</a></span>   <span style="font-weight: 900; font-size: 12pt;"><a href="papers/gpp/Poster_PAA.pdf">Poster</a></span></p>
 <!-- [[Poster](papers/gpp/Poster_PAA.pdf) - [Best Poster award PAA 2024](https://www.populationassociation.org/paa2024/poster-winners)]{style="font-weight: 900; font-size: 10pt;"} -->
 <div class="callout callout-style-simple callout-tip no-icon callout-titled">
 <div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
@@ -233,17 +253,17 @@ Abstract
 <div id="callout-2" class="callout-2-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <div style="text-align: justify;">
-<p><span style="font-size: 10pt;">We construct a globally harmonized, high-resolution dataset combining satellite-based aerosol optical depth (AOD) and population data to document global inequalities in air pollution exposure. By weighting pollution by population shares, we provide one of the first comprehensive assessments of how exposure to air pollution by aerosols varies across and within countries and regions. We find large disparities: populations in Asia face average exposure levels more than three times higher than those in Oceania, and within-country inequalities reach up to 359%. Our analysis reveals compounding inequalities—regions with higher pollution also tend to be poorer, with double-ratio metrics indicating that environmental disadvantage amplifies economic inequality. Finally, we provide the first Global Compensating Equivalent Variation (CEV) estimate for clean air, finding that welfare gains from cleaner air exceed 10% of GDP in many highly polluted areas, underscoring the significant economic and social returns from targeted pollution abatement policies.</span></p>
+<p><span style="font-size: 12pt;">We construct a globally harmonized, high-resolution dataset combining satellite-based aerosol optical depth (AOD) and population data to document global inequalities in air pollution exposure. By weighting pollution by population shares, we provide one of the first comprehensive assessments of how exposure to air pollution by aerosols varies across and within countries and regions. We find large disparities: populations in Asia face average exposure levels more than three times higher than those in Oceania, and within-country inequalities reach up to 359%. Our analysis reveals compounding inequalities—regions with higher pollution also tend to be poorer, with double-ratio metrics indicating that environmental disadvantage amplifies economic inequality. Finally, we provide the first Global Compensating Equivalent Variation (CEV) estimate for clean air, finding that welfare gains from cleaner air exceed 10% of GDP in many highly polluted areas, underscoring the significant economic and social returns from targeted pollution abatement policies.</span></p>
 </div>
 </div>
 </div>
 </div>
 <p><br></p>
-<p><span style="font-weight: 900; font-size: 12pt; color: #555555;">Extreme Heat and Air Pollution Risks for Early Childhood Development in Latin America and the Caribbean</span> <br> <span style="font-weight: 700; font-size: 10pt;">with Alexandre Bagolle, Jere R. Behrman, Florencia Lopez Boo, Emily Hannum, Joaquín Paseyro Mayol, Oscar Morales, Fan Wang</span></p>
+<p><span style="font-weight: 700; font-size: 14pt;">Extreme Heat and Air Pollution Risks for Early Childhood Development in Latin America and the Caribbean</span> <br> <span style="font-weight: 700; font-size: 10pt;">with Alexandre Bagolle, Jere R. Behrman, Florencia Lopez Boo, Emily Hannum, Joaquín Paseyro Mayol, Oscar Morales, Fan Wang</span></p>
 
 <div class="no-row-height column-margin column-container"><div class="">
 <p><img src="./research/lac/pm25_LAC.png" class="img-fluid quarto-figure quarto-figure-center"> <!-- ![](/papers/lac/Admin%201_pm25_group_mean_histogram_by_year_kde.png){fig-align="center"} --></p>
-</div></div><p><span style="font-weight: 900; font-size: 10pt;"><a href="research/paper1/lac_draft.pdf">Draft</a></span></p>
+</div></div><p><span style="font-weight: 900; font-size: 12pt;"><a href="research/paper1/lac_draft.pdf">Draft</a></span></p>
 <!-- [[Draft](papers/gpp/paper_global_pollution.pdf)]{style="font-weight: 900; font-size: 10pt;"}  -->
 <div class="callout callout-style-simple callout-tip no-icon callout-titled">
 <div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
@@ -258,14 +278,14 @@ Abstract
 <div id="callout-3" class="callout-3-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <div style="text-align: justify;">
-<p><span style="font-size: 10pt;">This report addresses the significant challenges faced by Latin American and Caribbean (LAC) children due to impacts of extreme-heat and air-pollution exposures on early childhood development (in utero to age 5). First, it introduces a framework for understanding how exposures can impact various dimensions of early childhood development, such as birth outcomes, mental health, physical health, cognitive development, and physical growth. These effects are likely to interact concurrently and dynamically across children’s life cycles, affecting developmental stages in early life and beyond age 5, within an ecological framework that includes families, communities, services, and infrastructure that may mediate or intensify these impacts. Second, using data on child population, air pollution (<span class="math inline">\(PM_{2.5}\)</span>), temperature (UTCI), and economic vulnerabilities in LAC, we provide distributional analyses of environmental burdens for children across economies in the region from 2000 to 2020. We show that in 2020 40.6 million children (86.7 % of the child population) were exposed to <span class="math inline">\(PM_{2.5}\)</span> levels above <span class="math inline">\(10 \mu g/m^{3}\)</span>, the level considered safe by the World Health Organization (WHO). This number was 7.9 million higher than in 2000. Also, 3.52 million additional children were living in places with 3 months or more of temperature above 32°C in 2020 relative to 2000. Moreover, 5.99 million children (12.8% of the child population) were exposed to both air pollution above <span class="math inline">\(15 \mu g/m^{3}\)</span> and 3 months or more of temperature above 32°C in 2020, an increase of 4.85 million children compared to 2000. We finish the report by summarizing the academic literature on the effects of air pollution and extreme temperature on early childhood development and providing policy guidance to address these issues.</span></p>
+<p><span style="font-size: 12pt;">This report addresses the significant challenges faced by Latin American and Caribbean (LAC) children due to impacts of extreme-heat and air-pollution exposures on early childhood development (in utero to age 5). First, it introduces a framework for understanding how exposures can impact various dimensions of early childhood development, such as birth outcomes, mental health, physical health, cognitive development, and physical growth. These effects are likely to interact concurrently and dynamically across children’s life cycles, affecting developmental stages in early life and beyond age 5, within an ecological framework that includes families, communities, services, and infrastructure that may mediate or intensify these impacts. Second, using data on child population, air pollution (<span class="math inline">\(PM_{2.5}\)</span>), temperature (UTCI), and economic vulnerabilities in LAC, we provide distributional analyses of environmental burdens for children across economies in the region from 2000 to 2020. We show that in 2020 40.6 million children (86.7 % of the child population) were exposed to <span class="math inline">\(PM_{2.5}\)</span> levels above <span class="math inline">\(10 \mu g/m^{3}\)</span>, the level considered safe by the World Health Organization (WHO). This number was 7.9 million higher than in 2000. Also, 3.52 million additional children were living in places with 3 months or more of temperature above 32°C in 2020 relative to 2000. Moreover, 5.99 million children (12.8% of the child population) were exposed to both air pollution above <span class="math inline">\(15 \mu g/m^{3}\)</span> and 3 months or more of temperature above 32°C in 2020, an increase of 4.85 million children compared to 2000. We finish the report by summarizing the academic literature on the effects of air pollution and extreme temperature on early childhood development and providing policy guidance to address these issues.</span></p>
 </div>
 <p><br></p>
 </div>
 </div>
 </div>
 <p><br></p>
-<p><span style="font-weight: 900; font-size: 12pt;color: color: #555555;">Unfolding the Greener Path: A Global Subnational Analysis of the Environmental Kuznets Curve</span> <br> <span style="font-weight: 700; font-size: 10pt;">with Jere Behrman, Emily Hannum, Oscar Morales, and Fan Wang</span></p>
+<p><span style="font-weight: 700; font-size: 14pt;">Unfolding the Greener Path: A Global Subnational Analysis of the Environmental Kuznets Curve</span> <br> <span style="font-weight: 700; font-size: 10pt;">with Jere Behrman, Emily Hannum, Oscar Morales, and Fan Wang</span></p>
 
 <div class="no-row-height column-margin column-container"><div class="">
 <div class="quarto-figure quarto-figure-center">
@@ -273,7 +293,7 @@ Abstract
 <p><img src="./research/ekc/ekc_paper.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
-</div></div><p><span style="font-weight: 900; font-size: 10pt;"><a href="research/paper1/ekc_draft.pdf">Draft</a></span></p>
+</div></div><p><span style="font-weight: 900; font-size: 12pt;"><a href="research/paper1/ekc_draft.pdf">Draft</a></span></p>
 <div class="callout callout-style-simple callout-tip no-icon callout-titled">
 <div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-4-contents" aria-controls="callout-4" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
@@ -287,20 +307,20 @@ Abstract
 <div id="callout-4" class="callout-4-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <div style="text-align: justify;">
-<p><span style="font-size: 10pt;">This paper provides the first global subnational analysis of the Environmental Kuznets Curve (EKC), relating GDP per capita and air pollution by aerosol. We use satellite data for Aerosol Optical Depth (AOD), a proxy for air pollution, and merge it with subnational GDP per capita for 2010 and population estimates. Our polynomial and quantile regressions confirm a robust inverted U-shaped relationship between income and pollution globally. However, we find significant heterogeneity across the air pollution distribution, with lower pollution quantiles exhibiting a flatter curve than higher pollution ones. Estimated Pollution-GDP elasticities confirm the overall EKC trend globally, with poorer regions exhibiting positive elasticities, while richer regions show negative magnitudes. However, considerable variation exists within regions, emphasizing that the development-pollution trajectory is not uniform.</span></p>
+<p><span style="font-size: 12pt;">This paper provides the first global subnational analysis of the Environmental Kuznets Curve (EKC), relating GDP per capita and air pollution by aerosol. We use satellite data for Aerosol Optical Depth (AOD), a proxy for air pollution, and merge it with subnational GDP per capita for 2010 and population estimates. Our polynomial and quantile regressions confirm a robust inverted U-shaped relationship between income and pollution globally. However, we find significant heterogeneity across the air pollution distribution, with lower pollution quantiles exhibiting a flatter curve than higher pollution ones. Estimated Pollution-GDP elasticities confirm the overall EKC trend globally, with poorer regions exhibiting positive elasticities, while richer regions show negative magnitudes. However, considerable variation exists within regions, emphasizing that the development-pollution trajectory is not uniform.</span></p>
 </div>
 </div>
 </div>
 </div>
 </section>
-<section id="work-in-progress" class="level3">
-<h3 class="anchored" data-anchor-id="work-in-progress">Work in Progress</h3>
+<section id="work-in-progress" class="level1">
+<h1>Work in Progress</h1>
 <hr>
-<p><span style="font-weight: 900; font-size: 12pt;color: #555555;">Air pollution and injuries in California</span> <br> <span style="font-weight: 700; font-size: 10pt;olor: #555555;">with A. Patrick Behrer, R. Jisung Park and Paul Stainier</span> <br></p>
-<p><span style="font-weight: 900; font-size: 12pt;color: #555555;">Air Pollution, Extreme Temperatures, Rainfall, Socio-economic Factors and Bangladeshi Children’s Respiratory Health</span> <br> <span style="font-weight: 700; font-size: 10pt;color: #555555;">with <a href="https://yujiezhangecon.github.io/research/">Yujie Zhang</a>, Jere R. Behrman, Emily Hannum, and Minhaj Mahmud</span> <br></p>
-<p><span style="font-weight: 900; font-size: 12pt;color: #555555;">Impacts of Climate Extremes on Reproductive lives During the COVID-19 Pandemic</span> <br> <span style="font-weight: 700; font-size: 10pt;color: #555555;">with <a href="https://www.leticiamarteleto.org">Leticia J. Marteleto</a></span> <br></p>
+<p><span style="font-weight: 700; font-size: 14pt;">Air pollution and injuries in California</span> <br> <span style="font-weight: 700; font-size: 10pt;olor: #555555;">with A. Patrick Behrer, R. Jisung Park and Paul Stainier</span> <br></p>
+<p><span style="font-weight: 700; font-size: 14pt;">Air Pollution, Extreme Temperatures, Rainfall, Socio-economic Factors and Bangladeshi Children’s Respiratory Health</span> <br> <span style="font-weight: 700; font-size: 10pt;color: #555555;">with <a href="https://yujiezhangecon.github.io/research/">Yujie Zhang</a>, Jere R. Behrman, Emily Hannum, and Minhaj Mahmud</span> <br></p>
+<p><span style="font-weight: 700; font-size: 14pt;">Impacts of Climate Extremes on Reproductive lives During the COVID-19 Pandemic</span> <br> <span style="font-weight: 700; font-size: 10pt;color: #555555;">with <a href="https://www.leticiamarteleto.org">Leticia J. Marteleto</a></span> <br></p>
 <p><span style="font-weight: 900; font-size: 12pt;">Chiefs and the local effects of Conservation policies</span> <br> <span style="font-weight: 700; font-size: 10pt;color: #555555;">with Ezra Rwakazooba</span> <br></p>
-<p><span style="font-weight: 900; font-size: 12pt;color: #555555;">The Comprehensive Impacts of a National Inclusion Policy for Students with Disabilities</span> <br> <span style="font-weight: 700; font-size: 10pt;">with <a href="https://www.virnavidalmenezes.com">Virna Menezes</a></span> <br></p>
+<p><span style="font-weight: 700; font-size: 14pt;">The Comprehensive Impacts of a National Inclusion Policy for Students with Disabilities</span> <br> <span style="font-weight: 700; font-size: 10pt;">with <a href="https://www.virnavidalmenezes.com">Virna Menezes</a></span> <br></p>
 <!-- 
 [Mortality paper]{style="font-weight: 900; font-size: 12pt;"}
 <br>

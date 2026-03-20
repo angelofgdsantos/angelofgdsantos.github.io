@@ -18,7 +18,9 @@ grid:
 <!-- 
 ### Welcome! -->
 
-[**Welcome!**]{style="font-weight: 600; font-size: 18pt; color: #496130;"}
+<!-- [**Welcome!**]{style="font-weight: 600; font-size: 18pt; color: #496130;"} -->
+
+**Welcome!**
 
 <div style="text-align: justify; font-weight: 400; font-size: 13pt;">
 
@@ -31,7 +33,7 @@ My research addresses critical issues such as deforestation and air pollution, a
 
 I am a nature enthusiast and soccer lover.
 
-You can find my CV [**here**](documents/cv_angelo_santos.pdf)
+You can find my CV [here**](documents/cv_angelo_santos.pdf)
 
 </div>
 

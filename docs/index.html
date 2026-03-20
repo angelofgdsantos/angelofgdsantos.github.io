@@ -67,6 +67,26 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+(function() {
+  const saved = localStorage.getItem('theme') || 'light';
+  document.documentElement.setAttribute('data-theme', saved);
+  document.addEventListener('DOMContentLoaded', function() {
+    const btn = document.createElement('button');
+    btn.id = 'theme-toggle';
+    btn.innerHTML = saved === 'dark' ? '&#9788;' : '&#9790;';
+    btn.style.cssText = 'background:none;border:none;color:#496130;padding:4px 8px;cursor:pointer;font-size:20px;line-height:1;';
+    btn.onclick = function() {
+      const next = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', next);
+      localStorage.setItem('theme', next);
+      btn.innerHTML = next === 'dark' ? '&#9788;' : '&#9790;';
+    };
+    const tools = document.querySelector('.quarto-navbar-tools');
+    if (tools) tools.appendChild(btn);
+  });
+})();
+</script>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -166,13 +186,14 @@ ul.task-list li input[type="checkbox"] {
 <div id="second-column" class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
 <!-- 
 ### Welcome! -->
-<p><span style="font-weight: 600; font-size: 18pt; color: #496130;"><strong>Welcome!</strong></span></p>
+<!-- [**Welcome!**]{style="font-weight: 600; font-size: 18pt; color: #496130;"} -->
+<p><strong>Welcome!</strong></p>
 <div style="text-align: justify; font-weight: 400; font-size: 13pt;">
 <p>I am a <a href="https://www.pop.upenn.edu/bio/angelo-dos-santos">Postdoctoral Fellow</a> at the University of Pennsylvania and Scientific Production Coordinator for the <a href="https://web.sas.upenn.edu/dzc-en/">DZC project</a>.</p>
 <p>I am an applied microeconomist working on development and environmental economics. I received my PhD from the University of Houston.</p>
 <p>My research addresses critical issues such as deforestation and air pollution, aiming to develop effective policies to mitigate these challenges.</p>
 <p>I am a nature enthusiast and soccer lover.</p>
-<p>You can find my CV <a href="documents/cv_angelo_santos.pdf"><strong>here</strong></a></p>
+<p>You can find my CV <a href="documents/cv_angelo_santos.pdf">here**</a></p>
 </div>
 </div>
 </div>

@@ -36,9 +36,27 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
-
-
-
-
+    include-in-header: 
+      text: |
+        <script>
+        (function() {
+          const saved = localStorage.getItem('theme') || 'light';
+          document.documentElement.setAttribute('data-theme', saved);
+          document.addEventListener('DOMContentLoaded', function() {
+            const btn = document.createElement('button');
+            btn.id = 'theme-toggle';
+            btn.innerHTML = saved === 'dark' ? '&#9788;' : '&#9790;';
+            btn.style.cssText = 'background:none;border:none;color:#496130;padding:4px 8px;cursor:pointer;font-size:20px;line-height:1;';
+            btn.onclick = function() {
+              const next = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+              document.documentElement.setAttribute('data-theme', next);
+              localStorage.setItem('theme', next);
+              btn.innerHTML = next === 'dark' ? '&#9788;' : '&#9790;';
+            };
+            const tools = document.querySelector('.quarto-navbar-tools');
+            if (tools) tools.appendChild(btn);
+          });
+        })();
+        </script>
 
 

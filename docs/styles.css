@@ -6,7 +6,7 @@
 /*196c19*/
 /* Navbar */
 .navbar{
-  background: #fff;
+  background: linear-gradient(180deg, #e3f2e3,  #f7f9f4);
 }
 .navbar a {
   color: #496130;
@@ -58,6 +58,9 @@ body {
   font-family: 'Lato';
   font-weight: 400;
   color: #555555;
+  background-color: #f7f9f4 ;
+  /* background-color: #f8fdf8; */
+
 }
 
 /* Underline links */
@@ -80,4 +83,70 @@ h3 {
 }
 .dropdown-item {
   font-size: 13px;
+}
+
+/* Bold text color */
+strong {
+  color: #496130;
+  font-size : 25px
+}
+
+/* Dark mode bold */
+[data-theme="dark"] strong {
+  color: #8fc46a;
+}
+
+/* Dark mode */
+[data-theme="dark"] body {
+  background-color: #1a1f1a !important;
+  color: #c8d4c8 !important;
+}
+[data-theme="dark"] .navbar {
+  background: #1e261e !important;
+  background-image: none !important;
+}
+[data-theme="dark"] .navbar a {
+  color: #8fc46a !important;
+}
+[data-theme="dark"] .navbar a:hover {
+  color: #04e104 !important;
+}
+[data-theme="dark"] h1,
+[data-theme="dark"] h2,
+[data-theme="dark"] h3 {
+  color: #8fc46a !important;
+}
+[data-theme="dark"] a {
+  color: #8fc46a !important;
+  text-decoration-color: #3b5e2e !important;
+}
+[data-theme="dark"] #theme-toggle {
+  color: #8fc46a !important;
+}
+[data-theme="dark"] .quarto-navbar-tools a {
+  color: #8fc46a !important;
+}
+[data-theme="dark"] .sidebar {
+  background-color: #1e261e !important;
+}
+
+
+/* Paper titles and bold elements — light mode */
+.paper-title {
+  font-weight: 900;
+  font-size: 12pt;
+  color: #496130;        /* ← your light mode bold color */
+}
+
+strong {
+  color: #496130;        /* ← your light mode bold color */
+}
+
+/* Dark mode overrides */
+[data-theme="dark"] .paper-title {
+  color: #8fc46a;        /* ← your dark mode bold color */
+}
+
+[data-theme="dark"] strong {
+  color: #8fc46a;        /* ← your dark mode bold color */
 }
