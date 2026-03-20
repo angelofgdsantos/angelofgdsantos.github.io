@@ -15,7 +15,7 @@ grid:
 [Strategic Environment: 
 \ 
 \
-Conservation Policies Effectiveness and Strategic Behavior]{style="font-weight: 900; font-size: 12pt;"}
+Conservation Policies Effectiveness and Strategic Behavior]{style="font-weight: 900; font-size: 12pt; color: #555555;"}
 
 ::: {.column-margin}
 ![](/research/zambia/p_15_Eastern_tree_cover_2dig.png){fig-align="center"}
@@ -42,7 +42,7 @@ Conservation Policies Effectiveness and Strategic Behavior]{style="font-weight: 
 
 [Air Pollution Burden Around the World: 
 <br>
-Distributions, Inequalities, and the Economic Benefits of Clean Air]{style="font-weight: 900; font-size: 12pt;"}
+Distributions, Inequalities, and the Economic Benefits of Clean Air]{style="font-weight: 900; font-size: 12pt; color: #555555;"}
 <br>
 [with Jere Behrman, Emily Hannum, Oscar Morales, and Fan Wang]{style="font-weight: 700; font-size: 10pt;"}
 
@@ -69,7 +69,7 @@ Distributions, Inequalities, and the Economic Benefits of Clean Air]{style="font
 
 <br>
 
-[Extreme Heat and Air Pollution Risks for Early Childhood Development in Latin America and the Caribbean]{style="font-weight: 900; font-size: 12pt;"}
+[Extreme Heat and Air Pollution Risks for Early Childhood Development in Latin America and the Caribbean]{style="font-weight: 900; font-size: 12pt; color: #555555;"}
 <br>
 [with  Alexandre Bagolle, Jere R. Behrman, Florencia Lopez Boo, Emily Hannum, Joaquín Paseyro Mayol, Oscar Morales, Fan Wang]{style="font-weight: 700; font-size: 10pt;"}
 
@@ -102,7 +102,7 @@ Distributions, Inequalities, and the Economic Benefits of Clean Air]{style="font
 
 [Unfolding the Greener Path:
 A Global Subnational Analysis of the Environmental
-Kuznets Curve]{style="font-weight: 900; font-size: 12pt;"}
+Kuznets Curve]{style="font-weight: 900; font-size: 12pt;color: color: #555555;"}
 <br>
 [with Jere Behrman, Emily Hannum, Oscar Morales, and Fan Wang]{style="font-weight: 700; font-size: 10pt;"}
 
@@ -127,28 +127,28 @@ Kuznets Curve]{style="font-weight: 900; font-size: 12pt;"}
 ### Work in Progress
 ---
 
-[Air pollution and injuries in California]{style="font-weight: 900; font-size: 12pt;"}
+[Air pollution and injuries in California]{style="font-weight: 900; font-size: 12pt;color: #555555;"}
 <br>
-[with A. Patrick Behrer, R. Jisung Park and Paul Stainier]{style="font-weight: 700; font-size: 10pt;"}
+[with A. Patrick Behrer, R. Jisung Park and Paul Stainier]{style="font-weight: 700; font-size: 10pt;olor: #555555;"}
 <br>
 
 [Air Pollution, Extreme Temperatures, Rainfall, Socio-economic
-Factors and Bangladeshi Children’s Respiratory Health]{style="font-weight: 900; font-size: 12pt;"}
+Factors and Bangladeshi Children’s Respiratory Health]{style="font-weight: 900; font-size: 12pt;color: #555555;"}
 <br>
-[with [Yujie Zhang](https://yujiezhangecon.github.io/research/), Jere R. Behrman, Emily Hannum, and Minhaj Mahmud]{style="font-weight: 700; font-size: 10pt;"}
+[with [Yujie Zhang](https://yujiezhangecon.github.io/research/), Jere R. Behrman, Emily Hannum, and Minhaj Mahmud]{style="font-weight: 700; font-size: 10pt;color: #555555;"}
 <br>
 
-[Impacts of Climate Extremes on Reproductive lives During the COVID-19 Pandemic]{style="font-weight: 900; font-size: 12pt;"}
+[Impacts of Climate Extremes on Reproductive lives During the COVID-19 Pandemic]{style="font-weight: 900; font-size: 12pt;color: #555555;"}
 <br>
-[with [Leticia J. Marteleto](https://www.leticiamarteleto.org)]{style="font-weight: 700; font-size: 10pt;"}
+[with [Leticia J. Marteleto](https://www.leticiamarteleto.org)]{style="font-weight: 700; font-size: 10pt;color: #555555;"}
 <br>
 
 [Chiefs and the local effects of Conservation policies]{style="font-weight: 900; font-size: 12pt;"}
 <br>
-[with Ezra Rwakazooba]{style="font-weight: 700; font-size: 10pt;"}
+[with Ezra Rwakazooba]{style="font-weight: 700; font-size: 10pt;color: #555555;"}
 <br>
 
-[The Comprehensive Impacts of a National Inclusion Policy for Students with Disabilities]{style="font-weight: 900; font-size: 12pt;"}
+[The Comprehensive Impacts of a National Inclusion Policy for Students with Disabilities]{style="font-weight: 900; font-size: 12pt;color: #555555;"}
 <br>
 [with [Virna Menezes](https://www.virnavidalmenezes.com)]{style="font-weight: 700; font-size: 10pt;"}
 <br>
