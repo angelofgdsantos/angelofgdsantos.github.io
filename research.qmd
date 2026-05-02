@@ -12,10 +12,11 @@ grid:
 
 ---
 
-[Strategic Environment: 
+
+[A Strategic Environment: 
 \ 
 \
-Conservation Policies Effectiveness and Strategic Behavior]{style="font-weight: 700; font-size: 14pt;"}
+Community Conservation, Site Selection, and Spillovers in Eastern Zambia]{style="font-weight: 700; font-size: 14pt;"}
 
 ::: {.column-margin}
 ![](/research/zambia/s_240c_pa_10_0.01_combined_rate_t10.png){fig-align="center"}
