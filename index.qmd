@@ -5,7 +5,7 @@ grid:
       margin-width: 200px
 ---
 
-:::: {layout="[ 40, 60 ]"}
+:::: {layout="[ 40, 44 ]"}
 
 ::: {#first-column}
 
@@ -27,11 +27,11 @@ grid:
 
 I am a [Postdoctoral Fellow](https://www.pop.upenn.edu/bio/angelo-dos-santos) at the University of Pennsylvania and Scientific Production Coordinator for the [DZC project](https://web.sas.upenn.edu/dzc-en/).
 
-I am an applied microeconomist working on development and environmental economics. I received my PhD from the University of Houston. 
+I am an applied microeconomist working on development and environmental economics. 
 
-My research addresses critical issues such as deforestation and air pollution, aiming to develop effective policies to mitigate these challenges. 
+My research spans two broad areas: the drivers and governance of deforestation; and the effects of environmental exposures on human development, including the role of climate adaptation in mitigating them.
 
-I am a nature enthusiast and soccer lover.
+Outside of research, I love spending time in nature and playing football.
 
 You can find my CV [here](documents/cv_angelodossantos.pdf)
 

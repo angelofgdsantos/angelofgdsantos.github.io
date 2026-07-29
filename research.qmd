@@ -19,7 +19,7 @@ grid:
 Community Conservation, Site Selection, and Spillovers in Eastern Zambia]{style="font-weight: 700; font-size: 14pt;"}
 
 ::: {.column-margin}
-![](/research/zambia/s_240c_pa_10_0.01_combined_rate_t10.png){fig-align="center"}
+![](/research/zambia/s_240c_pa_10_0.01_combined_rate_t10.svg){fig-align="center"}
 :::
 
 [[Draft](research/paper1/paper_zambia.pdf)]{style="font-weight: 900; font-size: 12pt;"} 
@@ -73,7 +73,7 @@ Distributions, Inequalities, and the Economic Benefits of Clean Air]{style="font
 
 [Extreme Heat and Air Pollution Risks for Early Childhood Development in Latin America and the Caribbean]{style="font-weight: 700; font-size: 14pt;"}
 <br>
-[with  Alexandre Bagolle, Jere R. Behrman, Florencia Lopez Boo, Emily Hannum, Joaquín Paseyro Mayol, Oscar Morales, Fan Wang]{style="font-weight: 700; font-size: 10pt;"}
+[with  Jere R. Behrman, Emily Hannum, Fan Wang]{style="font-weight: 700; font-size: 10pt;"}
 
 ::: {.column-margin}
 ![](/research/lac/pm25_LAC.png){fig-align="center"}
@@ -126,6 +126,31 @@ Kuznets Curve]{style="font-weight: 700; font-size: 14pt;"}
  
 :::
 
+
+<br>
+
+[ Dynamic Fertility Intentions in the Aftermath of a Flood]{style="font-weight: 700; font-size: 14pt;"}
+<br>
+[with  Leticia J. Marteleto, Alexandre Gori Maia]{style="font-weight: 700; font-size: 10pt;"}
+
+::: {.column-margin}
+![](/research/flood_dzc/marginsplot_flood_exposure.png){fig-align="center"}
+:::
+
+[[Draft coming soon...]()]{style="font-weight: 900; font-size: 12pt;"}  
+
+:::{.callout-tip icon=false appearance="minimal" collapse="true"}
+
+# Abstract
+
+<div style="text-align: justify;">
+
+[In this paper, we examine how fertility intentions evolved in response to a weather shock. We leverage spatiotemporal variation in exposure to and impact of a massive flash flood that occurred during panel surveys in 2020 and 2021, using a population-based sample of 2,520 women aged 18–34 across 94 municipalities in Pernambuco, Brazil. We use individual fixed-effects regressions to examine whether exposure to and impact of the 2022 flood are associated with changes in women’s fertility intentions, net of time-varying sociodemographic factors. We find important differences between exposure and impact. Findings show that traditional contextual measures of exposure to flood do not change fertility intentions, but a more nuanced measure that captures flood impact and resilience at the individual level suggests that women move towards postponing and foregoing. These innovative findings suggest that women affected by the 2022 flood loss within their communities intend to to build and consolidate their families. We advance knowledge about varying contextual influences on fertility preferences in the aftermath of weather shocks in a middle-income country with relatively young and below-replacement fertility.]{style="font-size: 12pt;"}
+
+</div>
+ 
+:::
+
 # Work in Progress
 ---
 
@@ -140,10 +165,11 @@ Factors and Bangladeshi Children’s Respiratory Health]{style="font-weight: 700
 [with [Yujie Zhang](https://yujiezhangecon.github.io/research/), Jere R. Behrman, Emily Hannum, and Minhaj Mahmud]{style="font-weight: 700; font-size: 10pt;"}
 <br>
 
+<!-- 
 [Impacts of Climate Extremes on Reproductive lives during the COVID-19 Pandemic]{style="font-weight: 700; font-size: 14pt;"}
 <br>
 [with [Leticia J. Marteleto](https://www.leticiamarteleto.org)]{style="font-weight: 700; font-size: 10pt;"}
-<br>
+<br> -->
 
 [Chiefs and the local effects of Conservation policies]{style="font-weight: 700; font-size: 14pt;"}
 <br>
