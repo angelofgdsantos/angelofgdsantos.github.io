@@ -17,6 +17,8 @@ grid:
 \ 
 \
 Community Conservation, Site Selection, and Spillovers in Eastern Zambia]{style="font-weight: 700; font-size: 14pt;"}
+<br>
+[Revise and Resubmit, Journal of the Association of Environmental and Resource Economists (JAERE)]{style="font-weight: 700; font-size: 10pt;"}
 
 ::: {.column-margin}
 ![](/research/zambia/s_240c_pa_10_0.01_combined_rate_t10.svg){fig-align="center"}
