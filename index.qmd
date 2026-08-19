@@ -5,7 +5,7 @@ grid:
       margin-width: 200px
 ---
 
-:::: {layout="[ 40, 44 ]"}
+:::: {layout="[ 44, 44 ]"}
 
 ::: {#first-column}
 
@@ -25,7 +25,7 @@ grid:
 <div style="text-align: justify; font-weight: 400; font-size: 13pt;">
 
 
-I am a [Postdoctoral Fellow](https://www.pop.upenn.edu/bio/angelo-dos-santos) at the University of Pennsylvania and Scientific Production Coordinator for the [DZC project](https://web.sas.upenn.edu/dzc-en/).
+I am a [Postdoctoral Fellow](https://www.pop.upenn.edu/bio/angelo-dos-santos) and [Penn Climate](https://climate.upenn.edu) Scholars Fellow at the University of Pennsylvania. I am also the Scientific Production Coordinator for the [DZC project](https://web.sas.upenn.edu/dzc-en/).
 
 I am an applied microeconomist working on development and environmental economics. 
 
