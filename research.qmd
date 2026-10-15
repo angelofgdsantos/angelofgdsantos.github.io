@@ -108,7 +108,7 @@ Distributions, Inequalities, and the Economic Benefits of Clean Air]{style="font
 A Global Subnational Analysis of the Environmental
 Kuznets Curve]{style="font-weight: 700; font-size: 14pt;"}
 <br>
-[with Jere Behrman, Emily Hannum, Oscar Morales, and Fan Wang]{style="font-weight: 700; font-size: 10pt;"}
+[with Oscar Morales, Jere R. Behrman, Emily Hannum, and Fan Wang]{style="font-weight: 700; font-size: 10pt;"}
 
 ::: {.column-margin}
 ![](/research/ekc/ekc_paper.png){fig-align="center"}
@@ -161,12 +161,6 @@ Kuznets Curve]{style="font-weight: 700; font-size: 14pt;"}
 [with A. Patrick Behrer, R. Jisung Park and Paul Stainier]{style="font-weight: 700; font-size: 10pt;"}
 <br>
 
-[Air Pollution, Extreme Temperatures, Rainfall, Socio-economic
-Factors and Bangladeshi Children’s Respiratory Health]{style="font-weight: 700; font-size: 14pt;"}
-<br>
-[with [Yujie Zhang](https://yujiezhangecon.github.io/research/), Jere R. Behrman, Emily Hannum, and Minhaj Mahmud]{style="font-weight: 700; font-size: 10pt;"}
-<br>
-
 <!-- 
 [Impacts of Climate Extremes on Reproductive lives during the COVID-19 Pandemic]{style="font-weight: 700; font-size: 14pt;"}
 <br>
@@ -175,12 +169,14 @@ Factors and Bangladeshi Children’s Respiratory Health]{style="font-weight: 700
 
 [Chiefs and the local effects of Conservation policies]{style="font-weight: 700; font-size: 14pt;"}
 <br>
-[with Ezra Rwakazooba]{style="font-weight: 700; font-size: 10pt;"}
+[with Heather Huntington and Ezra Rwakazooba]{style="font-weight: 700; font-size: 10pt;"}
 <br>
 
 [The Comprehensive Impacts of a National Inclusion Policy for Students with Disabilities]{style="font-weight: 700; font-size: 14pt;"}
 <br>
-[with [Virna Menezes](https://www.virnavidalmenezes.com)]{style="font-weight: 700; font-size: 10pt;"}
+[with [Virna Vidal Menezes](https://www.virnavidalmenezes.com)]{style="font-weight: 700; font-size: 10pt;"}
+<br>
+[Funded by the Graduate Student Research Grant, Kellogg Institute for International Studies, University of Notre Dame]{style="font-style: italic; font-size: 10pt;"}
 <br>
 
 <!-- 
