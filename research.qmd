@@ -73,12 +73,12 @@ Distributions, Inequalities, and the Economic Benefits of Clean Air]{style="font
 
 <br>
 
-[Extreme Heat and Air Pollution Risks for Early Childhood Development in Latin America and the Caribbean]{style="font-weight: 700; font-size: 14pt;"}
+[Air Pollution and Extreme Heat Exposures for Young Children in Latin America and the Caribbean]{style="font-weight: 700; font-size: 14pt;"}
 <br>
-[with  Jere R. Behrman, Emily Hannum, Fan Wang]{style="font-weight: 700; font-size: 10pt;"}
+[with Oscar Morales, Jere R. Behrman, Emily Hannum, and Fan Wang]{style="font-weight: 700; font-size: 10pt;"}
 
 ::: {.column-margin}
-![](/research/lac/pm25_LAC.png){fig-align="center"}
+![](/research/lac/lac_exposure_groups.png){fig-align="center"}
 <!-- ![](/papers/lac/Admin%201_pm25_group_mean_histogram_by_year_kde.png){fig-align="center"} -->
 :::
 
@@ -93,7 +93,7 @@ Distributions, Inequalities, and the Economic Benefits of Clean Air]{style="font
 
 <div style="text-align: justify;">
 
-[This report addresses the significant challenges faced by Latin American and Caribbean (LAC) children due to impacts of extreme-heat and air-pollution exposures on early childhood development (in utero to age 5). First, it introduces a framework for understanding how exposures can impact various dimensions of early childhood development, such as birth outcomes, mental health, physical health, cognitive development, and physical growth. These effects are likely to interact concurrently and dynamically across children’s life cycles, affecting developmental stages in early life and beyond age 5, within an ecological framework that includes families, communities, services, and infrastructure that may mediate or intensify these impacts. Second, using data on child population, air pollution ($PM_{2.5}$), temperature (UTCI), and economic vulnerabilities in LAC, we provide distributional analyses of environmental burdens for children across economies in the region from 2000 to 2020. We show that in 2020 40.6 million children (86.7 \% of the child population) were exposed to $PM_{2.5}$ levels above $10 \mu g/m^{3}$, the level considered safe by the World Health Organization (WHO). This number was 7.9 million higher than in 2000. Also, 3.52 million additional children were living in places with 3 months or more of temperature above 32°C in 2020 relative to 2000. Moreover, 5.99 million children (12.8\% of the child population) were exposed to both air pollution above $15 \mu g/m^{3}$ and 3 months or more of temperature above 32°C in 2020, an increase of 4.85 million children compared to 2000. We finish the report by summarizing the academic literature on the effects of air pollution and extreme temperature on early childhood development and providing policy guidance to address these issues. 
+[Air pollution and extreme heat pose important risks to human health and wellbeing, and children are particularly vulnerable to these hazards. We analyze how ambient exposures to these hazards are distributed across, and overlap with, the young child population of Latin America and the Caribbean. We then compare ambient exposure across socioeconomic and geographic groups. Using multiple satellite and administrative datasets available between 2000 and 2020, we analyze changes over time in the overlap between these groups and ambient hazards. Our findings highlight substantial increases in the mean and, in absolute terms, in the dispersion of ambient exposures from 2000 to 2020. Compared with 2000, in 2020 an additional 7.9 million children were exposed to air pollution above $10 \mu g/m^{3}$, the World Health Organization limit for safe exposure until 2021. For heat stress, 3.5 million additional children were exposed to a Universal Thermal Climate Index (UTCI) above 32°C for at least 3 months of the year. Beyond increases in single-hazard ambient exposures, we find growing compound exposures. In 2020, 4.3 million children (9.2\% of the child population) were exposed to both $PM_{2.5}$ above $15 \mu g/m^{3}$ and at least 3 months of extreme heat, 3.2 million more than in 2000. Moreover, higher exposures overlap with more socioeconomically disadvantaged regions (low-income and low-Human Development Index), and we document differences associated with geospatial groups, such as remoteness, rurality, and Indigenous land status. These findings show that ambient exposure compounds socioeconomic disadvantage and threatens young children’s health and wellbeing.
 ]{style="font-size: 12pt;"}
 
 </div>
