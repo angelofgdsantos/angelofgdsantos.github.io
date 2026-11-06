@@ -75,7 +75,7 @@ Distributions, Inequalities, and the Economic Benefits of Clean Air]{style="font
 
 [Air Pollution and Extreme Heat Exposures for Young Children in Latin America and the Caribbean]{style="font-weight: 700; font-size: 14pt;"}
 <br>
-[with Oscar Morales, Jere R. Behrman, Emily Hannum, and Fan Wang]{style="font-weight: 700; font-size: 10pt;"}
+[with Jere R. Behrman, Emily Hannum, Oscar Morales, and Fan Wang]{style="font-weight: 700; font-size: 10pt;"}
 
 ::: {.column-margin}
 ![](/research/lac/lac_exposure_groups.png){fig-align="center"}
