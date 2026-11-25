@@ -33,7 +33,9 @@ My research spans two broad areas: the drivers and governance of deforestation; 
 
 Outside of research, I love spending time in nature and playing football.
 
-You can find my CV [here](documents/cv_angelodossantos.pdf)
+<strong style="font-size: inherit;">I am on the 2026–2027 job market:</strong> [CV](documents/cv_angelodossantos.pdf)
+
+<!-- You can find my CV [here](documents/cv_angelodossantos.pdf) -->
 
 </div>
 
